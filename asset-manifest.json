@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Video_Player-React_Redux_Toolkit/static/css/main.f29ae65a.chunk.css",
+    "main.js": "/Video_Player-React_Redux_Toolkit/static/js/main.de530622.chunk.js",
+    "main.js.map": "/Video_Player-React_Redux_Toolkit/static/js/main.de530622.chunk.js.map",
+    "runtime-main.js": "/Video_Player-React_Redux_Toolkit/static/js/runtime-main.db0ac851.js",
+    "runtime-main.js.map": "/Video_Player-React_Redux_Toolkit/static/js/runtime-main.db0ac851.js.map",
+    "static/js/2.9505b32c.chunk.js": "/Video_Player-React_Redux_Toolkit/static/js/2.9505b32c.chunk.js",
+    "static/js/2.9505b32c.chunk.js.map": "/Video_Player-React_Redux_Toolkit/static/js/2.9505b32c.chunk.js.map",
+    "index.html": "/Video_Player-React_Redux_Toolkit/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "/Video_Player-React_Redux_Toolkit/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9505b32c.chunk.js.LICENSE.txt": "/Video_Player-React_Redux_Toolkit/static/js/2.9505b32c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db0ac851.js",
+    "static/js/2.9505b32c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.de530622.chunk.js"
+  ]
+}
